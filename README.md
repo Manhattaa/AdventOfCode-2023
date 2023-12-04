@@ -8,7 +8,7 @@
 
 | Day | Description         | Stars |
 |-----|---------------------|-------|
-| 1   | <a href"https://github.com/Manhattaa/AdventOfCode-2023/tree/master/Day1">Day 1 Solution<a/>| ⭐⭐ |
+| 1   | <a href="https://github.com/Manhattaa/AdventOfCode-2023/tree/master/Day1">Day 1 Solution<a/>| ⭐⭐ |
 | 2   | Day 2 Solution      | ⭐⭐ |
 | 3   | Day 3 Solution      | ⭐⭐ |
 | 4   | Day 4 Solution      | ⭐⭐ |
