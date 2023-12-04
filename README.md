@@ -1,7 +1,9 @@
 <h1>Advent Of Code 2023</h1>
+By Fady Hatta
 
-  This repo contains my solutions to the Advent of Code 2023.
 
+This repo contains my solutions to challenges of Advent of Code 2023.
+You can find each challenge<a href="https://adventofcode.com/2023/events">here<a/>
 
 
 
