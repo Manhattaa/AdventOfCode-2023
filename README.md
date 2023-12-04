@@ -3,7 +3,7 @@ By Fady Hatta
 
 
 This repo contains my solutions to challenges of Advent of Code 2023.
-You can find each challenge<a href="https://adventofcode.com/2023/events" >here<a/>
+You can find each challenge<a href="https://adventofcode.com/2023/events"> here<a/>
 
 
 
