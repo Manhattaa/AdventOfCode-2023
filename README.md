@@ -1,4 +1,4 @@
-* Advent Of Code 2023
+<h1>Advent Of Code 2023</h1>
 
   This repo contains my solutions to the Advent of Code 2023.
 
