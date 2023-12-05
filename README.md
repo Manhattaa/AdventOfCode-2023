@@ -15,7 +15,7 @@ You can find each challenge <a href="https://adventofcode.com/2023/events"> here
 | 2   | <a href="https://github.com/Manhattaa/AdventOfCode-2023/tree/master/Day2">Day 2 Solution<a/>| ⭐⭐ |
 | 3   | <a href="https://github.com/Manhattaa/AdventOfCode-2023/tree/master/Day3">Day 3 Solution<a/>| ⭐⭐ |
 | 4   | <a href="https://github.com/Manhattaa/AdventOfCode-2023/tree/master/Day4">Day 4 Solution<a/>| ⭐⭐ |
-| 5   | Day 5 Solution      |       |
+| 5   | <a href="https://github.com/Manhattaa/AdventOfCode-2023/tree/master/Day5">Day 5 Solution<a/>| ⭐⭐ |
 | 6   | Day 6 Solution      |       |
 | 7   | Day 7 Solution      |       |
 | 8   | Day 8 Solution      |       |
