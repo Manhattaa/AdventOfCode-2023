@@ -6,9 +6,6 @@ This repo contains my solutions to the challenges from the Advent of Code 2023.
 You can find each challenge <a href="https://adventofcode.com/2023/events"> here</a>.
 
 
-
-
-
 | Day | Description         | Stars |
 |-----|---------------------|-------|
 | 1   | <a href="https://github.com/Manhattaa/AdventOfCode-2023/tree/master/Day1">Day 1 Solution<a/>| ⭐⭐ |
@@ -36,3 +33,6 @@ You can find each challenge <a href="https://adventofcode.com/2023/events"> here
 | 23  | Day 23 Solution     |       |
 | 24  | Day 24 Solution     |       |
 | 25  | Day 25 Solution     |       |
+
+
+PS: This is a Work in progress. Will be updated as i go.
